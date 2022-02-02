@@ -32,7 +32,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/@apipass/apipass-api-js-sdk/src/apipass-api-js-sdk.js"
+            ]
           },
           "configurations": {
             "production": {
